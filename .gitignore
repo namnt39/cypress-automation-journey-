@@ -1,0 +1,12 @@
+# Dependencies
+/node_modules
+
+# VS Code
+.vscode/
+
+# Cypress
+/cypress/videos/
+/cypress/screenshots/
+
+# Environment variables
+.env
